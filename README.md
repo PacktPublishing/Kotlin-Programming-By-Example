@@ -30,5 +30,3 @@ If you are a beginner, begin this book with an open mind and a drive to learn. Y
 
 * [Complete Bootstrap: Responsive Web Development with Bootstrap 4](https://www.packtpub.com/web-development/complete-bootstrap-responsive-web-development-bootstrap-4?utm_source=github&utm_medium=repository&utm_campaign=9781788833400)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
