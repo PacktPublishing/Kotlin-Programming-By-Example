@@ -1,5 +1,5 @@
 class Printer {
-    companion object DocumentPrinter {
+    companion object {
         fun printDocument() = println("Document printing successful.")
     }
 }
