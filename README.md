@@ -30,3 +30,7 @@ If you are a beginner, begin this book with an open mind and a drive to learn. Y
 
 * [Complete Bootstrap: Responsive Web Development with Bootstrap 4](https://www.packtpub.com/web-development/complete-bootstrap-responsive-web-development-bootstrap-4?utm_source=github&utm_medium=repository&utm_campaign=9781788833400)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788474542">https://packt.link/free-ebook/9781788474542 </a> </p>
